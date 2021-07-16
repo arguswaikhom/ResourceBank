@@ -1,7 +1,20 @@
-library resource_bank;
-
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+const Map<String, String> images = {
+  'angelina-front':
+      'https://github.com/arguswaikhom/media_archive/blob/master/assets/images/angelina_front.jpg?raw=true',
+  'angelina-lenght':
+      'https://github.com/arguswaikhom/media_archive/blob/master/assets/images/angelina_length.jpg?raw=true',
+  'barbara-front':
+      'https://github.com/arguswaikhom/media_archive/blob/master/assets/images/barbara_front.jpg?raw=true',
+  'brabara-lenght':
+      'https://github.com/arguswaikhom/media_archive/blob/master/assets/images/barbara_length.jpg?raw=true',
+  'gigi-front':
+      'https://github.com/arguswaikhom/media_archive/blob/master/assets/images/gigi_front.jpg?raw=true',
+  'gigi-length':
+      'https://github.com/arguswaikhom/media_archive/blob/master/assets/images/gigi_length.jpg?raw=true',
+  'kendall-front':
+      'https://github.com/arguswaikhom/media_archive/blob/master/assets/images/kendall_front.jpg?raw=true',
+  'kendall-length':
+      'https://github.com/arguswaikhom/media_archive/blob/master/assets/images/kendall_length.jpg?raw=true',
+  'zayn-front':
+      'https://github.com/arguswaikhom/media_archive/blob/master/assets/images/zayn_front.jpg?raw=true',
+};
