@@ -1,11 +1,11 @@
 const Map<String, String> images = {
   'angelina-front':
       'https://github.com/arguswaikhom/media_archive/blob/master/assets/images/angelina_front.jpg?raw=true',
-  'angelina-lenght':
+  'angelina-length':
       'https://github.com/arguswaikhom/media_archive/blob/master/assets/images/angelina_length.jpg?raw=true',
   'barbara-front':
       'https://github.com/arguswaikhom/media_archive/blob/master/assets/images/barbara_front.jpg?raw=true',
-  'brabara-lenght':
+  'barbara-length':
       'https://github.com/arguswaikhom/media_archive/blob/master/assets/images/barbara_length.jpg?raw=true',
   'gigi-front':
       'https://github.com/arguswaikhom/media_archive/blob/master/assets/images/gigi_front.jpg?raw=true',
