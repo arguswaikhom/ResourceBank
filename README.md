@@ -1,14 +1,14 @@
-# resource_bank
+# Media Archive Repo
 
-A new Flutter package to host resource links.
+A public repo where anyone can store files and use the url in their project(s) or whatever...
 
-## Getting Started
+## How to add a file?
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+- Create a folder with a unique name. (Recomended to use your GitHub usename)
+- Create an OWNERS.md file inside your folder and mention all the users who are authorize to modify the folder.
+    - PRs will be easily acceptable if one of the owner modifies the content of the folder.
+    - Refer the OWNERS.md file template if you're creating a new one.
+- Categorize your files whatever you want inside your folder.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+
+NOTE: Remember, this is a public repo. Read access is available to anyone. So, don't keep sensitive information.
