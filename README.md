@@ -1,4 +1,4 @@
-# Media Archive Repo
+# Resource Bank Repo
 
 A public repo where anyone can store files and use the url in their project(s) or whatever...
 
